@@ -15,6 +15,7 @@ public class Main {
 			}
 			if(count==2) totalCount++;
 		}
+        sc.close();
 		System.out.println(totalCount);
 	}
 }
